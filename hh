@@ -1,1 +1,1 @@
-trojan://6de41e29-2aea-4ade-bec4-c5340ab63eb3@hinet.mjt001.com:443?sni=hinet.mjt001.com&security=tls&type=tcp#@DeviceOS
+https://dl10.dl14r-mobo-dl-filter-nakon.xyz/95.142.227.30/series/2005/tt0386676/Season-3/

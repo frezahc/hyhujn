@@ -1,1 +1,1 @@
-http://dl3.big-uploads.xyz/dl.php?filename=series/The.Office/WEB/The.Office.S03E03.720p.WEB.TakMovie.mkv&code=2e6af00b84549313f5b55aa537e6c9c7
+trojan://6de41e29-2aea-4ade-bec4-c5340ab63eb3@hinet.mjt001.com:443?sni=hinet.mjt001.com&security=tls&type=tcp#@DeviceOS

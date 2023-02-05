@@ -1,0 +1,1 @@
+vless://546be6ca-0720-4209-8239-7a6731894f70@azhdarsback.waveitoman.net:443?encryption=none&security=tls&sni=0205-0634.waveitoman.net&type=ws&host=azhdar.waveitoman.net&path=%2Fazhdarws#MeysamEbadi-TLS-WS

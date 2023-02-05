@@ -1,1 +1,1 @@
-vless://546be6ca-0720-4209-8239-7a6731894f70@azhdarsback.waveitoman.net:443?encryption=none&security=tls&sni=0205-0634.waveitoman.net&type=ws&host=azhdar.waveitoman.net&path=%2Fazhdarws#MeysamEbadi-TLS-WS
+http://dl3.big-uploads.xyz/dl.php?filename=series/The.Office/WEB/The.Office.S03E03.720p.WEB.TakMovie.mkv&code=2e6af00b84549313f5b55aa537e6c9c7
